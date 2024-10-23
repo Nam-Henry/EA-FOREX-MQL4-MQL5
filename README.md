@@ -5,11 +5,18 @@
 
 Chào quý bạn và các vị, mình là Nam <br> hiện là người quản lý và điều hành cho mảng giao dịch ngoại hối của `MW | FxTrading.`<br>
 thương hiệu `MW Labs` là một team bao gồm các thành viên hoạt động trong lĩnh vực:<br>
-- Trí tuệ nhân tạo (AI),<br>
-- Phân tích dữ liệu (Data Analyst),<br>
+- Trí tuệ nhân tạo (AI)<br>
+- Phân tích dữ liệu (Data Analyst)<br>
 - Vận hành và bảo mật cho mạng lưới blockchain (Node and Validator)<br>
 - Phân tích và giao dịch trên thị trường Crypto, Forex, Stock.<br>
-
+<br><br>
+Hello everyone, I'm Nam, currently managing and operating the forex trading division of `MW | FxTrading`.<br>
+The `MW Labs` brand is a team consisting of members working in the following fields:  
+- Artificial Intelligence (AI)  
+- Data Analysis
+- Blockchain network operation and security (Node and Validator)
+- Market analysis and trading in Crypto, Forex, and Stocks
+<br><br>
 Kết nối với MW | NODE:<br>
 Telegram : https://t.me/mw_fxtrading<br>
   X:       https://x.com/MwNode
