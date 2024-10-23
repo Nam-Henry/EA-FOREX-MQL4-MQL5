@@ -3,7 +3,7 @@
 `Some functions I use when programming EA in MQL4 & MQL5.`
 
 
-Chào quý bạn và các vị, mình là Nam hiện là người quản lý và điều hành cho mảng giao dịch ngoại hối của MW | FxTrading.<br>
+Chào quý bạn và các vị, mình là Nam <br> hiện là người quản lý và điều hành cho mảng giao dịch ngoại hối của `MW | FxTrading.`<br>
 thương hiệu `MW Labs` là một team bao gồm các thành viên hoạt động trong lĩnh vực:<br>
 - Trí tuệ nhân tạo (AI),<br>
 - Phân tích dữ liệu (Data Analyst),<br>
