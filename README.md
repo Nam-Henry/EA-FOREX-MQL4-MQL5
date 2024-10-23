@@ -11,8 +11,8 @@ thương hiệu `MW Labs` là một team bao gồm các thành viên hoạt đ�
 - Phân tích và giao dịch trên thị trường Crypto, Forex, Stock.<br>
 
 Kết nối với MW | NODE:<br>
-Telegram : https://t.me/mwnode_chat<br>
-X: https://x.com/MwNode
+Telegram : https://t.me/mw_fxtrading<br>
+  X:       https://x.com/MwNode
 
 
 ![logogr](https://github.com/user-attachments/assets/d764ddca-6f4c-4a8c-ba82-7f42b3f89534)
