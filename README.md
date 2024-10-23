@@ -2,27 +2,17 @@
 `Một vài hàm tôi sử dụng khi lập trình EA MQL4 & MQL5.` <br>
 `Some functions I use when programming EA in MQL4 & MQL5.`
 
-```bash
-Chào quý bạn và các vị, mình là Nam hiện là người quản lý và điều hành cho mảng giao dịch ngoại hối của MW | FxTrading.
-thương hiệu MW = Minh W.Liam là một team bao gồm các thành viên hoạt động trong lĩnh vực:
-- Trí tuệ nhân tạo (AI),
-- Phân tích dữ liệu (Data Analyst),
-- Vận hành và bảo mật cho mạng lưới blockchain (Node and Validator)
-- Phân tích và giao dịch trên thị trường Crypto, Forex, Stock.
 
-Kết nối với MW | NODE:
-# Telegram : https://t.me/mwnode_chat
-# X: https://x.com/MwNode
-```
+Chào quý bạn và các vị, mình là Nam hiện là người quản lý và điều hành cho mảng giao dịch ngoại hối của MW | FxTrading.<br>
+thương hiệu `MW Labs` là một team bao gồm các thành viên hoạt động trong lĩnh vực:<br>
+- Trí tuệ nhân tạo (AI),<br>
+- Phân tích dữ liệu (Data Analyst),<br>
+- Vận hành và bảo mật cho mạng lưới blockchain (Node and Validator)<br>
+- Phân tích và giao dịch trên thị trường Crypto, Forex, Stock.<br>
 
-```bash
-                         
-  __  ____          __  |#|   _   _  ____  _____  ______ 
- |  \/  \ \        / /  | |  | \ | |/ __ \|  __ \|  ____|
- | \  / |\ \  /\  / /   | |  |  \| | |  | | |  | | |__   
- | |\/| | \ \/  \/ /    | |  | . ` | |  | | |  | |  __|  
- | |  | |  \  /\  /     | |  | |\  | |__| | |__| | |____ 
- |_|  |_|   \/  \/      | |  |_| \_|\____/|_____/|______|
-                        |#|   
-                            
-```
+Kết nối với MW | NODE:<br>
+Telegram : https://t.me/mwnode_chat<br>
+X: https://x.com/MwNode
+
+
+![logogr](https://github.com/user-attachments/assets/d764ddca-6f4c-4a8c-ba82-7f42b3f89534)
